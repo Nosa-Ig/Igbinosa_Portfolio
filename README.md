@@ -28,7 +28,7 @@ Passionate about building scalable data pipelines and AI-driven solutions that s
 *	 Built and tested the model in Google Colab.
 *	 Used the provided Mercedes-Benz train and test datasets for training and prediction.
 
-# [Project 3: Sales Forecasting and Warehouse Optimisation System](Igbinosa_Portfolio/Sales Forecasting and Warehouse Optimisation System using Deep Learning at main · Nosa-Ig/Igbinosa_Portfolio)
+# [Project 3: Sales Forecasting and Warehouse Optimisation System](https://github.com/Nosa-Ig/Igbinosa_Portfolio/tree/main/Sales%20Forecasting%20and%20Warehouse%20Optimisation%20System%20using%20Deep%20Learning)
 *Developed a multi-horizon deep learning model (Conv1D + BiLSTM) to forecast retail sales 4 weeks ahead across stores and products.
 * Built a scalable Google Cloud pipeline (BigQuery + Vertex AI + GPU) training on 1.5M+ time-series windows.
 *Leveraged categorical embeddings to model store, product, and regional demand variability.
