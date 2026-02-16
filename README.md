@@ -17,6 +17,7 @@ Passionate about building scalable data pipelines and AI-driven solutions that s
 *	Matplotlib – Histograms, box plots, swarm plots, heatmaps, and radar charts.
 *	MySQL – Data merging, aggregation, primary key constraints, and analytical queries.
 *	Tableau – Interactive dashboard development and business storytelling.
+  ![](https://github.com/Nosa-Ig/Igbinosa_Portfolio/blob/main/images/Healthdata%20correlation%20heatmap.png)
 
 # [Project 2: Mercedes-Benz Greener Manufacturing ML: Project Overview](https://github.com/Nosa-Ig/Igbinosa_Portfolio/tree/main/Mercedes-Benz%20Greener%20Manufacturing)
 *	Built a machine learning model to predict vehicle test bench time and optimise production efficiency.
