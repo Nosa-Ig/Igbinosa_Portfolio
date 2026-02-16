@@ -2,7 +2,7 @@
 Data Scientist and AI specialist focused on transforming complex datasets into actionable insights through machine learning, statistical modelling, and intelligent automation.
 Passionate about building scalable data pipelines and AI-driven solutions that solve real-world business problems and drive measurable impact.
 
-# Project 1: Healthcare Insurance Cost Prediction: Project Overview
+# [Project 1: Healthcare Insurance Cost Prediction: Project Overview](https://github.com/Nosa-Ig/Igbinosa_Portfolio/tree/main/Healthcare_Insurance_Project)
 * Predicted hospitalisation costs using advanced regression and Gradient Boosting models with stratified 5-fold cross-validation.
 *	Engineered high-impact features including age calculation, gender extraction from names, and medical risk factor transformations.
 *	Identified key cost drivers such as smoking, BMI, hospital tier, and major surgeries through statistical testing and feature importance analysis.
