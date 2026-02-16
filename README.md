@@ -17,3 +17,14 @@ Passionate about building scalable data pipelines and AI-driven solutions that s
 *	Matplotlib – Histograms, box plots, swarm plots, heatmaps, and radar charts.
 *	MySQL – Data merging, aggregation, primary key constraints, and analytical queries.
 *	Tableau – Interactive dashboard development and business storytelling.
+
+# Project 2: Mercedes-Benz Greener Manufacturing ML: Project Overview
+*	Built a machine learning model to predict vehicle test bench time and optimise production efficiency.
+*	 Applied feature selection, label encoding, and PCA to streamline high-dimensional configuration data.
+*	 Leveraged XGBoost to model complex feature interactions and improve prediction accuracy.
+*	 Enabled smarter scheduling and reduced emissions by minimising unnecessary testing time.
+# Code and Technical Stack
+*	Developed the solution in Python using Pandas, NumPy, Scikit-learn, and XGBoost.
+*	 Built and tested the model in Google Colab.
+*	 Used the provided Mercedes-Benz train and test datasets for training and prediction.
+
