@@ -41,4 +41,4 @@ Passionate about building scalable data pipelines and AI-driven solutions that s
 *Google Cloud Platform (BigQuery, Vertex AI) for scalable data storage, training, and deployment.
 * NVIDIA T4 GPU acceleration for efficient large-scale model training.
 * SQL (BigQuery ML) for exploratory modelling and integration with business reporting dashboards.
-
+  ![](https://github.com/Nosa-Ig/Igbinosa_Portfolio/blob/main/images/deployment%20roadmap.png)
