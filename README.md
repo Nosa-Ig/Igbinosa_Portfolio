@@ -18,7 +18,7 @@ Passionate about building scalable data pipelines and AI-driven solutions that s
 *	MySQL – Data merging, aggregation, primary key constraints, and analytical queries.
 *	Tableau – Interactive dashboard development and business storytelling.
 
-# Project 2: Mercedes-Benz Greener Manufacturing ML: Project Overview
+# [Project 2: Mercedes-Benz Greener Manufacturing ML: Project Overview](https://github.com/Nosa-Ig/Igbinosa_Portfolio/tree/main/Mercedes-Benz%20Greener%20Manufacturing)
 *	Built a machine learning model to predict vehicle test bench time and optimise production efficiency.
 *	 Applied feature selection, label encoding, and PCA to streamline high-dimensional configuration data.
 *	 Leveraged XGBoost to model complex feature interactions and improve prediction accuracy.
